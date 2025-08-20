@@ -1,7 +1,7 @@
 {
-  "GAN": {
+  "trabajo": {
     "cabra": {
-      "server_ip": "22",
+      "server_ip": "192.168.2.19:22003",
       "user_key": "123"
     },
     "123": {
