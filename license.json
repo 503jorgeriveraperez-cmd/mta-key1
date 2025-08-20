@@ -93,6 +93,10 @@
     "1350751503497039952": {
       "server_ip": "192.99.241.164:22003",
       "user_key": "Y6tZfum3f01U4xQZfYLtUR7BwxZwbJ"
+  "[FAVELA]AC": {
+    "tuDiscordID": {
+      "user_key": "TU_CLAVE_DE_LICENCIA",
+      "server_ip": "123.45.67.89:22003"
     }
   }
 }
